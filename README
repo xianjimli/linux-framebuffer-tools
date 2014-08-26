@@ -1,0 +1,5 @@
+fbshow: show a image on the framebuffer.
+gsnap: snap a image from the framebuffer.
+tologo: convert a image to linux logo.
+
+Bugs report to: xianjimli@hotmail.com
